@@ -1,0 +1,12 @@
+# Fichier long avec sample hold
+./adrinas 2002B09531SC0076_02vburst_01.wav NULL 19.0 20 300 1024 1 1 1 4 
+
+# Fichier court avec sample hold
+./adrinas 2002B09531SC0076_02vburst_extrait.wav NULL 19.0 20 300 1024 1 1 1 4
+
+# Fichier court avec digital clicks
+./adrinas inStereo_Click_1_856sec.wav NULL 19.0 20 300 1024 1 1 0 4
+
+# Fichier court ss digital clicks
+./adrinas instereo_2_RF_PCM.wav NULL 19.0 20 300 1024 1 1 0 4
+
